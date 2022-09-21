@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reymidaz
-- 👀 I’m interested in ... Building A Stack Site for NFT Marketplace
-- 🌱 I’m currently learning ...solidity and Phyton coding
+- 👀 I’m interested in ... Building A Stack Site for NFT Marketplace and Algo trading bots
+- 🌱 I’m currently learning ...solidity and Phyton coding as well as coding Algo bots for trading using CCxt and Phyton. 
 - 💞️ I’m looking to collaborate on ... NFT Projects and cryptocurrency projects
 - 📫 How to reach me ... malemus022@gmail.com
 
